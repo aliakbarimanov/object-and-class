@@ -1,1 +1,1 @@
-# object-and-class
+# This repository for training object-and-class.
